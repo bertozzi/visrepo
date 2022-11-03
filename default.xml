@@ -3,9 +3,11 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <manifest>
   <remote name="github" fetch="ssh://git@github.com/bertozzi/" />
-  <default remote="github" revision="main"/>
+  <default remote="github" revision="HEAD"/>
 
-  <project name="finfo.git" path="esempi2022"/>
+  <project name="finfo.git"           path="esempi2022"/>
+  <project name="finfoslides.git"     path="slides"/>
+  <project name="finfoslidespdf.git"  path="slidespdf"/>
 
 </manifest>
 
