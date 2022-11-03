@@ -2,7 +2,7 @@
 <!-- Copyright (C) 2020, RTE (http://www.rte-france.com) -->
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <manifest>
-  <remote name="github" fetch="git@github.com:bertozzi/" />
+  <remote name="github" fetch="ssh://git@github.com/bertozzi/" />
 
   <project name="finfo.git" revision="main" remote="github" path="esempi2022"/>
 
