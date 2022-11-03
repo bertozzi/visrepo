@@ -3,8 +3,8 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <manifest>
   <remote name="github" fetch="ssh://git@github.com/bertozzi/" />
-  <default revision="main">
-  <default remote="github">
+  <default revision="main" />
+  <default remote="github" />
 
   <project name="finfo.git" path="esempi2022"/>
 
