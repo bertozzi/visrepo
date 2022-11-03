@@ -4,7 +4,7 @@
 <manifest>
   <remote name="github" fetch="git@github.com:bertozzi/" />
 
-  <project name="esempi2022" revision="main" remote="github" path="esempi2022"/>
+  <project name="finfo.git" revision="main" remote="github" path="esempi2022"/>
 
 </manifest>
 
