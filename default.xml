@@ -3,14 +3,9 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <manifest>
   <remote name="github" fetch="ssh://git@github.com/bertozzi/" />
-  <default revision="main" />
-  <default remote="github" />
+  <default remote="github" revision="main"/>
 
   <project name="finfo.git" path="esempi2022"/>
 
 </manifest>
 
-<!-- git clone git@github.com:bertozzi/finfo.git esempi2022
-git clone git@github.com:bertozzi/finfoslides.git slides
-git clone git@github.com:bertozzi/finfoslidespdf.git slidespdf
--->
