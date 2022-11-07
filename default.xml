@@ -9,6 +9,7 @@
 
   <project name="base.git"            path="."/>
   <project name="finfo.git"           path="esempi2022"/>
+  <project name="lab.git"             path="lab"/>
   <project name="finfoslides.git"     path="slides"/>
   <project name="finfoslidespdf.git"  path="slidespdf"/>
 
