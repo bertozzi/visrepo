@@ -5,7 +5,7 @@
   <remote name="github" 
           fetch="ssh://git@github.com/bertozzi/" 
   />
-  <default remote="github" revision="main" dest-branch="main"/>
+  <default remote="github" revision="2023" dest-branch="2023"/>
 
   <project name="visbase.git"            path="."/>
   <project name="visslides.git"          path="slides"/>
