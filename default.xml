@@ -8,8 +8,9 @@
   <default remote="github" revision="main" dest-branch="main"/>
 
   <project name="visbase.git"            path="."/>
-  <project name="visslides.git"     path="slides"/>
-  <project name="visslidespdf.git"  path="slidespdf"/>
+  <project name="visslides.git"          path="slides"/>
+  <project name="visslidespdf.git"       path="slidespdf"/>
+  <project name="vislabs.git"            path="lab"/>
 
 </manifest>
 
