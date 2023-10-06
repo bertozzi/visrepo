@@ -3,7 +3,7 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <manifest>
   <remote name="github" 
-          fetch="ssh://git@github.com/bertozzi/" 
+          fetch="https://github.com/bertozzi/" 
   />
   <default remote="github" revision="2023" dest-branch="2023"/>
 
