@@ -11,6 +11,7 @@
   <project name="visslides.git"          path="slides"/>
   <project name="visslidespdf.git"       path="slidespdf"/>
   <project name="vislabs.git"            path="lab"/>
+  <project name="visplabs.git"           path="labsol"/>  <!-- privato: soluzioni, solo docenti -->
 
 </manifest>
 
